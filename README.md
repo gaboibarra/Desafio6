@@ -42,8 +42,17 @@ Para este desafío voy a utilizar mi maquina con Windows en vista de que ansible
 ## ⚙️ Procedimiento
 
 1. Actualizar los paquetes en Ubuntu.
+
+![image](https://github.com/user-attachments/assets/3cb724c0-8eaf-46cc-8c8f-de469910fb32)
+
 2. Instalar Ansible.
+
+
+
 3. Clonar el repositorio del proyecto.
+
+
+
 4. Crear los roles para dividir la lógica del playbook.
 5. Mover tareas, variables y plantillas a los roles correspondientes.
 6. Actualizar el playbook principal (main.yml).
