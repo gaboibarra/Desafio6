@@ -108,6 +108,6 @@ Mover plantillas y archivos
 
 ## 📎 Recursos
 
-- [Repositorio del Proyecto](https://github.com/edgaregonzalez/devops-bootcamp/tree/main/Clase35)
+- [Repositorio del Proyecto][https://github.com/gaboibarra/devops-bootcamp.git]
 
 
