@@ -106,8 +106,19 @@ Mover plantillas y archivos
 
 ![image](https://github.com/user-attachments/assets/b094ff30-7a80-400d-b0b0-cfbe87356b1f)
 
+![image](https://github.com/user-attachments/assets/d31b6484-052d-4b1e-ace7-374ed682bf47)
+
+
 ## 📎 Recursos
 
 - [Repositorio del Proyecto][https://github.com/gaboibarra/devops-bootcamp.git]
 
+## 📝 Notas
+
+- Se recomienda contar con un entorno WSL2 configurado para realizar pruebas en sistemas Windows.
+- Verificar que Apache esté correctamente instalado y habilitado después de ejecutar el playbook.
+
+## ✨ Contribuciones
+
+¡Si tienes alguna sugerencia o mejora, no dudes en abrir un pull request!
 
