@@ -62,15 +62,52 @@ Para este desafío voy a utilizar mi maquina con Windows en vista de que ansible
 
 5. Crear los roles para dividir la lógica del playbook.
 
-
+![image](https://github.com/user-attachments/assets/efd42ccc-0f62-4859-a057-f3557106f441)
 
 6. Mover tareas, variables y plantillas a los roles correspondientes.
+
+Mover tareas
+
+![image](https://github.com/user-attachments/assets/46753b49-680a-4023-9fe1-78c01e3dea1d)
+
+Mover variables
+
+![image](https://github.com/user-attachments/assets/cc174d31-53b3-48c1-a6df-14b374cc9750)
+
+Mover plantillas y archivos
+ 
+![image](https://github.com/user-attachments/assets/8dfd708a-e908-49c7-ba9b-609ed07d37c9)
+
+![image](https://github.com/user-attachments/assets/753ee4bf-4eee-4b4a-ab1c-44d29085be18)
+
 7. Actualizar el playbook principal (main.yml).
+
+![image](https://github.com/user-attachments/assets/a40dc47d-0632-427f-8344-abc62cabbf13)
+
 8. Validar la estructura y contenido de los archivos.
+
+![image](https://github.com/user-attachments/assets/48a77de1-3287-4cce-9e43-f9333d72eb2e)
+
+![image](https://github.com/user-attachments/assets/5781198e-2543-45c7-850a-54e181554c62)
+
 9. Ejecutar el playbook y comprobar el estado del servicio.
 
+## ✅ Pruebas Realizadas
 
+- Verificación de la estructura de roles.
 
+![image](https://github.com/user-attachments/assets/83c9e5c4-af95-4586-91e6-20235ee3cd57)
 
+- Ejecución exitosa del playbook en entorno WSL2 con Ubuntu.
+
+![image](https://github.com/user-attachments/assets/13e5fe61-5ea8-4724-b354-e3d5901aff9d)
+
+- Validación del servicio web en Apache.
+
+![image](https://github.com/user-attachments/assets/b094ff30-7a80-400d-b0b0-cfbe87356b1f)
+
+## 📎 Recursos
+
+- [Repositorio del Proyecto](https://github.com/edgaregonzalez/devops-bootcamp/tree/main/Clase35)
 
 
