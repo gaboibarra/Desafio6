@@ -43,21 +43,31 @@ Para este desafío voy a utilizar mi maquina con Windows en vista de que ansible
 
 1. Actualizar los paquetes en Ubuntu.
 
-![image](https://github.com/user-attachments/assets/3cb724c0-8eaf-46cc-8c8f-de469910fb32)
+![image](https://github.com/user-attachments/assets/f353bf98-d893-40fc-95bf-6e3a4c199702)
+
 
 2. Instalar Ansible.
 
+![image](https://github.com/user-attachments/assets/415dbf94-da40-4f3b-98ce-f11c989657cd)
 
 
-3. Clonar el repositorio del proyecto.
+3. Crear un directorio para el proyecto
+
+![image](https://github.com/user-attachments/assets/cd746d58-b570-4b9d-89f0-8f90d39b34da)
+
+
+4. Clonar el repositorio del proyecto.
+
+![image](https://github.com/user-attachments/assets/b3108df2-e257-4cf6-9703-e8b2d9cc8e52)
+
+5. Crear los roles para dividir la lógica del playbook.
 
 
 
-4. Crear los roles para dividir la lógica del playbook.
-5. Mover tareas, variables y plantillas a los roles correspondientes.
-6. Actualizar el playbook principal (main.yml).
-7. Validar la estructura y contenido de los archivos.
-8. Ejecutar el playbook y comprobar el estado del servicio.
+6. Mover tareas, variables y plantillas a los roles correspondientes.
+7. Actualizar el playbook principal (main.yml).
+8. Validar la estructura y contenido de los archivos.
+9. Ejecutar el playbook y comprobar el estado del servicio.
 
 
 
