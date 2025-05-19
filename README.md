@@ -118,7 +118,3 @@ Mover plantillas y archivos
 - Se recomienda contar con un entorno WSL2 configurado para realizar pruebas en sistemas Windows.
 - Verificar que Apache esté correctamente instalado y habilitado después de ejecutar el playbook.
 
-## ✨ Contribuciones
-
-¡Si tienes alguna sugerencia o mejora, no dudes en abrir un pull request!
-
