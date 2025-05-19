@@ -17,3 +17,9 @@ Nuestro equipo inició un nuevo sprint con la tarea de modularizar el proyecto d
 - 📂 **Git** - Control de versiones
 - 🗃️ **GitHub** - Repositorio del proyecto
 
+El proyecto se estructura en roles para lograr una modularización efectiva:
+
+- **Common**: Instalación de paquetes esenciales.
+- **Webserver**: Configuración de Apache y despliegue de archivos web.
+
+Para este desafío voy a utilizar mi maquina con Windows en vista de que ansible no se ejecuta en Windows voy a usar WSL2 
