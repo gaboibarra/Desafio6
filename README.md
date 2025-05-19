@@ -22,4 +22,21 @@ El proyecto se estructura en roles para lograr una modularización efectiva:
 - **Common**: Instalación de paquetes esenciales.
 - **Webserver**: Configuración de Apache y despliegue de archivos web.
 
+### 📂 Organización de Roles
+```
+roles/
+├── common/
+│   ├── tasks/
+│   ├── vars/
+│   └── templates/
+└── webserver/
+    ├── tasks/
+    ├── vars/
+    └── templates/
+```
+
 Para este desafío voy a utilizar mi maquina con Windows en vista de que ansible no se ejecuta en Windows voy a usar WSL2 
+
+![image](https://github.com/user-attachments/assets/9c504ee9-a1dd-407d-8778-4a925f2f4a98)
+
+
